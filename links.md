@@ -11,5 +11,5 @@ comments: false
 
 
 
-* [My university](http://iust.ac.ir)
+* [My university](http://www.iust.ac.ir/)
 
