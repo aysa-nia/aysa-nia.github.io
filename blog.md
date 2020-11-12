@@ -1,6 +1,12 @@
 ---
 layout: posts
-title: 10 Fun Facts about Animals to Make You Smile
+author_profile: true
+permalink: /blog/
+title: Blog Posts
+tags: [ Animals, Animal Facts]
+modified: 12-11-2020
+comments: true
+title: 3 Fun Facts about Animals to Make You Smile
 ---
 
 
@@ -15,3 +21,9 @@ They may be small, but they play a key role in our environment in ways you would
 
 
 ![alt text](../assets/images/s.jpg)
+
+
+## 3.Ducks love to surf
+Ducks love to go catch a wave or two in our deep-blue sea. They have been observed riding the waves of the ocean to shore and swimming back out again to do it all over. Could this be their favorite hobby?
+
+![alt text](../assets/images/duck.jpg)
